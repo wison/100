@@ -213,6 +213,6 @@ $(function(){
 			$(this).append('<p style="width:'+ ($(this).width()-12) +'px; height:'+ ($(this).height()-12) +'px;">'+ arr[$(this).index()] +'</p>');
 		});
 	})();
-	//	https://github.com/wison/100DU.git
+	
 });
 
